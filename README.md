@@ -8,7 +8,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...  -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: **kirillova.nadezhdaa@yandex.ru**,  **<a href="https://t.me/landameens">t.me/ismoilovv18</a>**
+- 📫 How to reach me: **shakhzod.ismoilov.bakhtiyorovich@gmail.com**,  **<a href="https://t.me/landameens">t.me/ismoilovv18</a>**
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
 
