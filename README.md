@@ -4,4 +4,4 @@
 
 
 
-- 📫 How to reach me: **shakhzod.ismoilov.bakhtiyorovich@gmail.com**,  **<a href="https://t.me/landameens">t.me/ismoilovv18</a>**
+- 📫 How to reach me: **shakhzod.ismoilov.bakhtiyorovich@gmail.com**,  **<a href="https://t.me/ismoilovv18">t.me/ismoilovv18</a>**
