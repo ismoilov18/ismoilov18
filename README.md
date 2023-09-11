@@ -12,7 +12,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/ismoilov18/labo5prog">
+<a href="https://github.com/ismoilov18/labo5prog-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismoilov18&repo=github-readme-stats&theme=buefy" />
 </a>
 
